@@ -18,5 +18,7 @@ match var:
         print(sub_fun(x,y))
     case 3:
         print(multi_fun(x,y))
-    case 4: 
+    case 4:
         print(div_fun(x,y))
+    case 5:
+        print("nothing")
