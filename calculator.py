@@ -20,5 +20,7 @@ match var:
         print(multi_fun(x,y))
     case 4:
         print(div_fun(x,y))
-    case 5:
+    case 6:
         print("nothing")
+    case 45:
+        None
