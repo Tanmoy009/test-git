@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore salary file
+salary.txt
+
 # C extensions
 *.so
 
